@@ -1,4 +1,4 @@
-update=Thursday, November 06, 2014 'PMt' 10:44:42 PM
+update=Saturday, November 22, 2014 'PMt' 12:46:19 PM
 version=1
 last_client=eeschema
 [general]
@@ -29,19 +29,6 @@ SolderMaskMinWidth=0.000000000000
 DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
 [eeschema]
 version=1
 LibDir=../libs
@@ -79,3 +66,16 @@ LibName30=valves
 LibName31=/Users/thomas/work-perso/minima-hardware/libs/SI570_ProgOsc_11JUN2012
 LibName32=/Users/thomas/work-perso/minima-hardware/libs/wb6dhw-minima
 LibName33=ab2_input_devices
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=PcbnewAdvanced
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60
